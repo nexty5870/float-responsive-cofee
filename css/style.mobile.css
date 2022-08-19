@@ -1,0 +1,72 @@
+/* header */
+.header nav h1{
+  float: none;
+  text-align: center;
+}
+
+.header nav ul{
+  float: none;
+}
+
+.header nav ul li{
+  float: none;
+}
+
+.header nav ul li a{
+  padding: 10px;
+  text-align: center;
+}
+
+/* VP */
+
+.vp{
+  min-height: 700px;
+  background: url(../img/background.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content{
+  padding-top: 50px;
+}
+.vp-content h1{
+  font-size: 2rem;
+}
+
+/* Features */
+
+.feature {
+  float: none;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+/* where */
+.where{
+  padding: 80px 20px 20px 20px;
+  overflow: auto;
+  min-height: 87vh;
+}
+.where-img{
+  width: 45%;
+  float: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  border: 0px;
+  margin-bottom: 3rem;
+  margin: auto;
+  display: block;
+}
+
+.where-text{
+  margin-top: 20px;
+  float: none;
+  width: 100%;
+}
+
+/* contact */
+
+.contact{
+  padding: 70px 0px 70px 0px;
+  min-height: 87vh;
+}

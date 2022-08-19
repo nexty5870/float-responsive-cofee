@@ -1,0 +1,263 @@
+/* reset */
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General title */
+html,
+body{
+  font-family: 'Open Sans', sans-serif;
+  color: #222;
+}
+h1,
+h2,
+h3{
+  margin-bottom: 20px;
+}
+
+p{
+  margin-bottom: 10px;
+}
+
+a{
+  color: #222;
+  text-decoration: none;
+}
+
+.btn{
+  display: inline-block;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 14px;
+  border: 0;
+  cursor: pointer;
+}
+
+.container{
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.my-10{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.my-20{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-primary{
+  background: white;
+  color: #222;
+}
+.btn-primary:hover{
+  background: rgb(160, 94, 51);
+  color: white;
+}
+
+.btn-dark{
+  background: #222;
+  color: white;
+}
+.btn-dark:hover{
+  background: rgb(160, 94, 51);
+  color: #222;
+}
+
+.underline{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+
+}
+
+.chip{
+  width: 45px;
+  border-radius: 10%;
+  display: inline-block;
+  text-align: center;
+}
+.chip-purple{
+  background: #be418d;
+
+}
+.chip-brown{
+  background: #8c5e24;
+}
+/* header */
+
+.separator{
+  margin: 20px auto;
+  height: 10px;
+  width: 100px;
+  background: white;
+}
+
+.header{
+  background: rgb(136, 136, 136);
+  overflow: auto;
+  line-height: 1.7em;
+}
+
+.header nav h1{
+  float: left;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+
+.header nav h1 a{
+  color: white;
+}
+
+.header nav ul{
+  float: right;
+  list-style: none;
+}
+
+.header nav ul li{
+  float: left;
+}
+
+.header nav ul li a{
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.header nav ul li a:hover{
+  background: rgb(148, 148, 148);
+}
+
+.active{
+  background: rgb(148, 148, 148)
+}
+
+/* VP */
+
+.vp{
+  height: 700px;
+  background: url(../img/background.jpg) center center;
+  background-size: cover;
+  text-align: center;
+}
+
+.vp-content{
+  max-width: 600px;
+  padding: 20px;
+  padding-top: 120px;
+  color: white;
+  display: block;
+  margin: auto;
+}
+.vp-content h1{
+  font-size: 50px;
+}
+
+.vp content p{
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.9em;
+}
+
+/* Features */
+
+.features {
+  overflow: auto;
+  padding: 50px 0;
+  text-align: center;
+}
+.feature {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+/* people */
+.person{
+  height: 400px;
+  background: url(../img/person.jpg) center center;
+  background-size: cover;
+}
+
+/* reservation */
+
+.reservation{
+  padding: 75px 20px 100px 20px;
+  text-align: center;
+}
+
+/* footer */
+
+footer{
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+
+}
+
+footer p{
+  margin-bottom: 0px;
+  font-size: 14px;
+}
+
+footer p a{
+  color: white;
+}
+footer p a:hover{
+  color: rgb(160, 94, 51);
+}
+
+/* where */
+
+.where{
+  padding: 180px 0px 100px 0px;
+  overflow: auto;
+  min-height: 87vh
+}
+.where-img{
+  width: 45%;
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.where-text{
+  float: right;
+  width: 50%;
+}
+
+/* contact */
+
+.contact{
+  padding: 180px 0px 100px 0px;
+  min-height: 87vh;
+}
+
+.contact-form-container{
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.contact-form-container form label{
+  display: block;
+  font-weight: 700;
+}
+
+.contact-form-container form input,textarea{
+  display: block;
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.contact-form-container form textarea{
+  min-height: 80px;
+  
+}
