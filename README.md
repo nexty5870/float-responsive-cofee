@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on WebDev app, currently learning JS to move into React/NodeJS, I have also taken the journey on PHP using Laravel framework
 - 💬 I'd love to connect, I'm also a DevOps and 3d printer enthousiast
 
-<p>Connect with me on
+<p><h3>Connect with me on<h3>
 <br> <br>
 <a target="_blank" href="https://www.linkedin.com/in/quentin-daems/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
