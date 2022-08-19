@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nexty!;I'm+Learning+Web+Dev...;I'm+also+a+DevOps+Enthousiast)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> <img src ="https://img.shields.io/github/followers/nexty5870" alt="Folower count">
+<img src="https://komarev.com/ghpvc/?username=nexty5870&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> <img src ="https://img.shields.io/github/followers/nexty5870" alt="Folower count">
 
 <h3> Here's some fun facts about me: </h3>
 
