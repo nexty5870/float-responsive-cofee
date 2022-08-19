@@ -12,7 +12,7 @@
 - 💬 I'd love to connect, I'm also a DevOps and 3d printer enthousiast
 
 <p>Connect with me on
-<br>	
+<br> <br>
 <a target="_blank" href="https://www.linkedin.com/in/quentin-daems/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:quentin.daems[a]gmail.com"
