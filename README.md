@@ -30,10 +30,10 @@ While I know Float doesn't make a very responsive website, and I did not use rel
 
 ### Features
 
-- ▶︎ Lacking :)
-- ▶︎ Index Page
-- ▶︎ Location page
-- ▶︎ Contact page (no backend, just frontend)
+▶︎ Lacking :)
+▶︎ Index Page
+▶︎ Location page
+▶︎ Contact page (no backend, just frontend)
 
 ---
 
