@@ -37,5 +37,5 @@ While I know Float doesn't make a very responsive website, and I did not use rel
 
 ---
 
-Credit: [Ahmad-shaikh575](https://github.com/nexty5870)
+Credit: [Nexty5870](https://github.com/nexty5870)
 Last Edited on: 19-Aug-2022
